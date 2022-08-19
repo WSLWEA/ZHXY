@@ -10,6 +10,7 @@ public class ZhxyApplication {
         for (String beanDefinitionName : run.getBeanDefinitionNames()) {
             System.out.println(beanDefinitionName);
             System.out.println("111111");
+            System.out.println("PUSH");
         }
     }
 
